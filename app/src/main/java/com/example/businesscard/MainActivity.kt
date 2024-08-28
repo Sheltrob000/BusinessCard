@@ -49,6 +49,7 @@ class MainActivity : ComponentActivity() {
                     Card(
                         name = "Android",
                         modifier = Modifier.padding(innerPadding)
+
                     )
                 }
             }
